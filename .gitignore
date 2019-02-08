@@ -9,9 +9,9 @@
 /node_modules
 
 # adminLTE dependencies
-/src/assets/bower_components
-/src/assets/dist
-/src/assets/plugins
+# /src/assets/bower_components
+# /src/assets/dist
+# /src/assets/plugins
 
 # profiling files
 chrome-profiler-events.json
